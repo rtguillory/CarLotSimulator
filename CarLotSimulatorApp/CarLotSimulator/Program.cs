@@ -57,19 +57,25 @@ namespace CarLotSimulator
                 count++;
                 Console.WriteLine($"\n#{count}:\nYear: {car.Year}\nMake: {car.Make}\nModel: {car.Model}");
             }
+            Console.WriteLine($"\nNumber of cars on lot: {CarLot.numberOfCars}");
                 //Set the properties for each of the cars
             //Call each of the methods for each car
-
+            //Done
             //*************BONUS*************//
 
             // Set the properties utilizing the 3 different ways we learned about, one way for each car
-
+            //Done
             //*************BONUS X 2*************//
 
             //Create a CarLot class
+            //Done
             //It should have at least one property: a List of cars
+            //Done
             //Instanciate the a Carlot at the beginning of the program and as you create a car add the car to the list.
+            //Done
             //At the end iterate through the list printing each of car's Year, Make, and Model to the console
+            //Done
+
         }
     }
 }
